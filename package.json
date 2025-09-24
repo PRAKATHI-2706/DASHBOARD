@@ -1,0 +1,23 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "npm --prefix ./dashboard run dev",
+  "start": "npm --prefix ./dashboard run dev",
+  "build": "npm --prefix ./dashboard run build",
+  "preview": "npm --prefix ./dashboard run preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRAKATHI-2706/DASHBOARD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRAKATHI-2706/DASHBOARD/issues"
+  },
+  "homepage": "https://github.com/PRAKATHI-2706/DASHBOARD#readme",
+  "description": ""
+}
